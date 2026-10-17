@@ -1,0 +1,15 @@
+
+# Node.js dependencies
+node_modules/
+
+# Secret configuration
+.env
+.env.*
+!.env.example
+
+# System and editor files
+.DS_Store
+.vscode/
+
+# Debug logs
+npm-debug.log*
